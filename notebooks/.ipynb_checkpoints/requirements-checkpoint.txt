@@ -1,0 +1,8 @@
+lasio==0.29
+numpy==1.19.5
+scipy==1.4.1
+matplotlib==3.2.2
+seaborn==0.11.1
+pingouin==0.3.11
+plotly==4.4.1
+pandas==1.1.5
